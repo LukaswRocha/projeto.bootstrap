@@ -188,4 +188,8 @@ background-color: #353D41;
     margin-top: 20px;
 }
 
+/* Time */
 
+.card-body {
+    text-align: center;
+}
