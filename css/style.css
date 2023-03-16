@@ -434,7 +434,7 @@ background-color: #353D41;
 }
 
 /* responsive */
-@media(max-width: 768px) {
+@media (max-width: 768px) {
   
     /* geral */
     .container {
@@ -513,7 +513,7 @@ background-color: #353D41;
   
 }
 
-@media(max-width: 425px) {
+@media (max-width: 425px) {
 
     /* slider */
     #mainSlider {
